@@ -17,8 +17,7 @@
 5. **Neral Curve Incorporation**
 - Kindly see "Neural Curve - Certificate of Incoorporation.pdf"
 
-6. **GPT Pre-Training Pipeline and Fine-Tuning**
-- [Click Here](https://github.com/rhugvedd/GPT-Pre-Training-Pipeline-Implementation)
+6. **GPT Pre-Training Pipeline and Fine-Tuning**: [Click Here](https://github.com/rhugvedd/GPT-Pre-Training-Pipeline-Implementation)
 
 7. **CSP-Darknet based Number Plate Detection Framework**
 - [Click Here](https://github.com/rhugvedd/CSP-Darknet-Based-Number-Plate-Detection-Framework)
