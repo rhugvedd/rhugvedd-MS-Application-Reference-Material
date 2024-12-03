@@ -19,20 +19,14 @@
 
 6. **GPT Pre-Training Pipeline and Fine-Tuning**: [Click Here](https://github.com/rhugvedd/GPT-Pre-Training-Pipeline-Implementation)
 
-7. **CSP-Darknet based Number Plate Detection Framework**
-- [Click Here](https://github.com/rhugvedd/CSP-Darknet-Based-Number-Plate-Detection-Framework)
+7. **CSP-Darknet based Number Plate Detection Framework**: [Click Here](https://github.com/rhugvedd/CSP-Darknet-Based-Number-Plate-Detection-Framework)
 
-8. **Quadcopter**
-- [Click Here](https://github.com/rhugvedd/Quadcopter-Embedded-Firmware)
+8. **Quadcopter**: [Click Here](https://github.com/rhugvedd/Quadcopter-Embedded-Firmware)
 
-9. **Letter Tracer Algorithm – Optical Character Recognition**
-- [Click Here](https://github.com/rhugvedd/Letter-Tracer-Algorithm--Optical-Character-Recognition)
+9. **Letter Tracer Algorithm – Optical Character Recognition**: [Click Here](https://github.com/rhugvedd/Letter-Tracer-Algorithm--Optical-Character-Recognition)
 
-10. **8051 Micro-Controller Assembler**
-- [Click Here](https://github.com/rhugvedd/Assembler-8051)
+10. **8051 Micro-Controller Assembler**: [Click Here](https://github.com/rhugvedd/Assembler-8051)
 
-11. **Sudoku Solver**
-- [Click Here](https://github.com/rhugvedd/Sudoku-Solver---Tower-of-Hanoi---Colour-Guess)
+11. **Sudoku Solver**: [Click Here](https://github.com/rhugvedd/Sudoku-Solver---Tower-of-Hanoi---Colour-Guess)
 
-12. **Research Paper Peer Review Status Repo**
-- [Check for Updates](https://github.com/rhugvedd/Research-Paper-Status)
+12. **Research Paper Peer Review Status Repo**: [Check for Updates](https://github.com/rhugvedd/Research-Paper-Status)
