@@ -5,7 +5,7 @@
 - [ASRO Code Repositoy](https://github.com/rhugvedd/ASRO-Sign-Based-Optimization-for-Stochastic-Learning)
 
 2. **SansGPT: Advancing Generative Pre-Training in Sanskrit**
-- [Click to Read Paper](https://drive.google.com/file/d/1CdwMu8z5kkGlJO8SNfO3hAkpq-iAfQO1/view?usp=sharing)
+- [Click to Read Paper](https://drive.google.com/file/d/1fhsneQL0Ed78fwa0xqI8G-8AZ9DdqFck/view?usp=sharing)
 - [SansGPT Code Repositoy](https://github.com/rhugvedd/SansGPT-Advancing-Generative-Pre-Training-in-Sanskrit)
 
 3. **Rank 27 - All Diploma Candidates**
